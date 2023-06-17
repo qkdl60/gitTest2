@@ -4,4 +4,4 @@
 
 ~~hihi~~
 ~~hihihihihih~~
-~~conflict@@@@@@@@@@@@@@~~
+~~conflict~~
