@@ -1,1 +1,1 @@
-oct에서 추가
+console.log(" oct에서 추가 ");
